@@ -1,0 +1,4 @@
+Asignar permisis de arranque
+ 	chmod +x app/build/build.sh
+correr deploy
+	app/build/build.sh
